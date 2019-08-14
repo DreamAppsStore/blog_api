@@ -1,0 +1,10 @@
+https://www.codementor.io/olawalealadeusi896/restful-api-with-python-flask-framework-and-postgres-db-part-1-kbrwbygx5
+https://www.codementor.io/olawalealadeusi896/building-a-restful-blog-apis-using-python-and-flask-part-2-l9y8awusp
+https://www.codementor.io/olawalealadeusi896/building-a-restful-blog-apis-using-python-and-flask-part-3-lx7rt8pfk
+
+
+
+export FLASK_ENV=development
+export DATABASE_URL=postgresql://postgres:postgres@localhost/blog_api_db
+export JWT_SECRET_KEY=hhgaghhgsdhdhdd
+
